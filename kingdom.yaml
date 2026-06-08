@@ -1,0 +1,8 @@
+name: legible
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: It reads a codebase and scores how clearly a stranger could understand it.
+dependsOn: [me, truth, geshtug]
